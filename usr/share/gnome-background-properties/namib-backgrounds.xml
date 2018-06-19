@@ -4,7 +4,7 @@
 
    <wallpaper deleted="false">
       <name>Namib GNU/Linux 17.08</name>
-      <filename>/usr/share/backgrounds/gnome/1708.jpg</filename>
+      <filename>/usr/share/backgrounds/namib/1708.jpg</filename>
       <options>zoom</options>
       <pcolor>#ffffff</pcolor>
       <scolor>#000000</scolor>
@@ -12,7 +12,7 @@
 
    <wallpaper deleted="false">
       <name>Namib GNU/Linux 17.09</name>
-      <filename>/usr/share/backgrounds/gnome/1709.jpg</filename>
+      <filename>/usr/share/backgrounds/namib/1709.jpg</filename>
       <options>zoom</options>
       <pcolor>#ffffff</pcolor>
       <scolor>#000000</scolor>
@@ -20,7 +20,7 @@
    
    <wallpaper deleted="false">
       <name>Namib GNU/Linux 17.11</name>
-      <filename>/usr/share/backgrounds/gnome/1711.jpg</filename>
+      <filename>/usr/share/backgrounds/namib/1711.jpg</filename>
       <options>zoom</options>
       <pcolor>#ffffff</pcolor>
       <scolor>#000000</scolor>
@@ -28,7 +28,7 @@
 
    <wallpaper deleted="false">
       <name>Namib GNU/Linux 18.02</name>
-      <filename>/usr/share/backgrounds/gnome/1802.jpg</filename>
+      <filename>/usr/share/backgrounds/namib/1802.jpg</filename>
       <options>zoom</options>
       <pcolor>#ffffff</pcolor>
       <scolor>#000000</scolor>
