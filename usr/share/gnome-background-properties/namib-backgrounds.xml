@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+
+   <wallpaper deleted="false">
+      <name>Namib GNU/Linux 17.08</name>
+      <filename>/usr/share/backgrounds/gnome/1708.jpg</filename>
+      <options>zoom</options>
+      <pcolor>#ffffff</pcolor>
+      <scolor>#000000</scolor>
+   </wallpaper>
+
+   <wallpaper deleted="false">
+      <name>Namib GNU/Linux 17.09</name>
+      <filename>/usr/share/backgrounds/gnome/1709.jpg</filename>
+      <options>zoom</options>
+      <pcolor>#ffffff</pcolor>
+      <scolor>#000000</scolor>
+   </wallpaper>
+   
+   <wallpaper deleted="false">
+      <name>Namib GNU/Linux 17.11</name>
+      <filename>/usr/share/backgrounds/gnome/1711.jpg</filename>
+      <options>zoom</options>
+      <pcolor>#ffffff</pcolor>
+      <scolor>#000000</scolor>
+   </wallpaper>
+
+   <wallpaper deleted="false">
+      <name>Namib GNU/Linux 18.02</name>
+      <filename>/usr/share/backgrounds/gnome/1802.jpg</filename>
+      <options>zoom</options>
+      <pcolor>#ffffff</pcolor>
+      <scolor>#000000</scolor>
+   </wallpaper>
+
+</wallpapers>
+

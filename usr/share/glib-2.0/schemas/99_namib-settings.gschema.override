@@ -1,0 +1,10 @@
+[org.gnome.desktop.screensaver]
+picture-uri='/usr/share/backgrounds/namib/1802.jpg'
+
+[org.gnome.desktop.background]
+picture-uri='/usr/share/backgrounds/namib/1802.jpg'
+
+[org.gnome.desktop.interface]
+gtk-theme='Materia-Namib'
+icon-theme='Papirus'
+cursor-theme='Breeze'

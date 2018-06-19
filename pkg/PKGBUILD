@@ -1,0 +1,23 @@
+pkgname=namib-budgie-settings
+pkgdesc='Settings file for Namib Budgie'
+pkgver=18.06
+pkgrel=1
+arch=('any')
+url="https://github.com/MeerkatBrowser/namib-budgie-settings"
+license=('GPL')
+makedepends=('git')
+optdepends=('lightdm' 'lightdm-gtk-greeter' 'budgie-desktop' 'namib-wallpapers' 'xcursor-breeze' 'papirus-icon-theme' 'materia-namib-gtk-theme' )
+source=("git+$url.git")
+sha256sums=('SKIP')
+install=$pkgname.install
+
+package() {
+    install -d ${pkgdir}/etc/skel
+	install -d ${pkgdir}/etc/lightdm_budgie
+	install -d ${pkgdir}/usr/share/glib-2.0/schemas
+    install -d ${pkgdir}/usr/share/gnome-background-properties
+
+    cp -r ${srcdir}/namib-budgie-settings/etc/skel/. "${pkgdir}/etc/skel/"
+	cp -r ${srcdir}/namib-budgie-settings/etc/lightdm/. "${pkgdir}/etc/lightdm_budgie/"
+	cp -r ${srcdir}/namib-budgie-settings/usr/share/. "${pkgdir}/usr/share/"
+}
