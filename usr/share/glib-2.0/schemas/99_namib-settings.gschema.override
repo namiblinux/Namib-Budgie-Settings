@@ -1,6 +1,7 @@
 [com.solus-project.budgie-panel]
 builtin-theme=false
 dark-theme=false
+layout='namib'
 
 [org.gnome.desktop.screensaver]
 picture-uri='file:///usr/share/backgrounds/namib/1802.jpg'
