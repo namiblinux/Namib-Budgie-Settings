@@ -4,10 +4,10 @@ dark-theme=false
 layout='namib'
 
 [org.gnome.desktop.screensaver]
-picture-uri='file:///usr/share/backgrounds/namib/1806.jpg'
+picture-uri='file:///usr/share/backgrounds/namib/1808.jpg'
 
 [org.gnome.desktop.background]
-picture-uri='file:///usr/share/backgrounds/namib/1806.jpg'
+picture-uri='file:///usr/share/backgrounds/namib/1808.jpg'
 
 [org.gnome.desktop.interface]
 gtk-theme='Materia-Namib'

@@ -1,6 +1,6 @@
 pkgname=namib-budgie-settings
 pkgdesc='Settings file for Namib Budgie'
-pkgver=18.06
+pkgver=18.08
 pkgrel=1
 arch=('any')
 url="https://github.com/namiblinux/namib-budgie-settings"

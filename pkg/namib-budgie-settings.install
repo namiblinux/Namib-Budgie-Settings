@@ -1,7 +1,7 @@
  
 post_install() {
-    \cp -r /etc/lightdm_budgie/lightdm.conf /etc/lightdm/lightdm.conf
-    \cp -r /usr/share/glib-2.0/schemas/com.solus-project.budgie-panel-namib.gschema.xml /usr/share/glib-2.0/schemas/com.solus-project.budgie-panel.gschema.xml
+    \ln -sf /etc/lightdm_budgie/lightdm.conf /etc/lightdm/lightdm.conf
+    \ln -sf /usr/share/glib-2.0/schemas/com.solus-project.budgie-panel-namib.gschema.xml /usr/share/glib-2.0/schemas/com.solus-project.budgie-panel.gschema.xml
 
 	glib-compile-schemas /usr/share/glib-2.0/schemas
     echo "GLib schemas compiled"
